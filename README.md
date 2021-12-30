@@ -4,7 +4,7 @@ Energy Landscape Analysis Toolbox (ELAT) provides functions necessary for the en
 # How to use
 Please refer to the user's guide (https://github.com/tkEzaki/energy-landscape-analysis/blob/master/users_guide.pdf).
 
-# Related Repository
+# Related repository
 We provide a separate repository (https://github.com/tkEzaki/phase_diagram_analysis) for 
 - Users who want to perform the phase diagram analysis proposed in Ezaki *et al.* *Communications Biology* **3**: 52 (2020).
 - Users who look for a function to estimate the pairwise maximum entropy model for multi-variate time-series data.
