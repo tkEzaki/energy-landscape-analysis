@@ -1,5 +1,5 @@
 # What is this repository?
-Energy Landscape Analysis Toolbox (ELAT) provides functions necessary for the energy landscape analysis (Ezaki *et al.* *Phil. Trans. R. Soc. A* **375**: 20160287 (2017)).
+Energy Landscape Analysis Toolbox (ELAT) provides functions necessary for the energy landscape analysis (Ezaki *et al.* *Phil. Trans. R. Soc. A* **375**: 20160287 (2017)).　This software can be run on MATLAB2016 or later versions.
 
 # How to use
 Please refer to the user's guide (https://github.com/tkEzaki/energy-landscape-analysis/blob/master/users_guide.pdf).
