@@ -4,6 +4,8 @@ Energy Landscape Analysis Toolbox (ELAT) provides functions necessary for the en
 # How to use
 Please refer to the user's guide (https://github.com/tkEzaki/energy-landscape-analysis/blob/master/users_guide.pdf).
 
+You can open and test the code on MATLAB Online (MathWorks account required): [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=minoue-xx/energy-landscape-analysis)
+
 # Related repository
 We provide a separate repository (https://github.com/tkEzaki/phase_diagram_analysis) for 
 - Users who want to perform the phase diagram analysis proposed in Ezaki *et al.* *Communications Biology* **3**: 52 (2020).
